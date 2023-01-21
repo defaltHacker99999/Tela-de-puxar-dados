@@ -1,0 +1,9 @@
+print("Crie o seu virus")
+Print("----------------")
+Nome = imput("Digite o nome do seu virus: ")
+def main():
+q = 0
+while 1:
+q = q + 1
+print("O vírus:", nome, "cópias:", q)
+main()
